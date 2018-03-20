@@ -8,5 +8,3 @@ Some new commit in master
 Some work in master branch.
 Work in master
 Interest feature.
-Some work in master branch.
-Interest featchure.
