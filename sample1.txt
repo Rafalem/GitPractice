@@ -6,6 +6,7 @@ Some modify for development branch.
 Test line for resolving conflict with master.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 For resolving conflict
 >>>>>>> 0c2a083... Some new commit in master
@@ -15,3 +16,7 @@ Some work in master branch.
 =======
 Interest featchure.
 >>>>>>> 5486927... Add interest featchure
+=======
+Some work in master branch.
+Interest featchure.
+>>>>>>> 177bc0b... sample1.txt
