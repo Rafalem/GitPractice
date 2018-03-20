@@ -2,21 +2,11 @@ Hello gittt!
 This's my second line of test SCV!
 Add a new line...
 Some modify for development branch.
-<<<<<<< HEAD
 Test line for resolving conflict with master.
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 For resolving conflict
->>>>>>> 0c2a083... Some new commit in master
-=======
+Some new commit in master
 Some work in master branch.
->>>>>>> d81904a... Work in master
-=======
-Interest featchure.
->>>>>>> 5486927... Add interest featchure
-=======
+Work in master
+Interest feature.
 Some work in master branch.
 Interest featchure.
->>>>>>> 177bc0b... sample1.txt
