@@ -3,3 +3,4 @@ This's my second line of test SCV!
 Add a new line...
 Some modify for development branch.
 Test line for resolving conflict with master.
+Interest featchure.
